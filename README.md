@@ -33,7 +33,7 @@ Welcome to my portfolio of **Marketing Analytics Projects**, built with **R, Pyt
 ---
 
 ## 🌍 Live Demo  
-- 💻 GitHub Repo: *(this repository link)*  
+- 💻 GitHub Repo: https://github.com/chauhankhyati55-dot/Marketing_Analytics
 
 ---
 
